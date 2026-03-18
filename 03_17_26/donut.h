@@ -1,6 +1,10 @@
 #ifndef DONUT_H
 #define DONUT_H
 #include <string>
+#include <iostream>
+#include <map>
+#include <algorithm>
+#include <stdexcept>
 
 enum icingType
 {
@@ -53,8 +57,14 @@ public:
     void setIcing(std::string);
     void setTopping(std::string);
     void setDrizzle(std::string);
-    std::string toString();
+    std::string toString() const;
     friend std::ostream &operator<<(std::ostream &, const donut &);
+    const static std::map<icingType, std::string> iceToStr;
+    const static std::map<std::string, icingType> strToice;
+    const static std::map<drizzleType, std::string> drizzleToStr;
+    const static std::map<std::string, drizzleType> strToDrizzle;
+    const static std::map<toppingType, std::string> topToStr;
+    const static std::map<std::string, toppingType> strToTop;
 
 private:
     icingType icing;
