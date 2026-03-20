@@ -32,11 +32,11 @@ donut::toppingType donut::getTopping() const
 void donut::setIcing(std::string ice)
 {
     std::transform(ice.begin(), ice.end(), ice.begin(), ::tolower);
-    if (!strToice.count(ice))
+    if (!strToIce.count(ice))
     {
         throw std::invalid_argument(ice + " is not a valid icing!");
     }
-    icing = strToice.at(ice);
+    icing = strToIce.at(ice);
 }
 
 void donut::setTopping(std::string top)
@@ -79,7 +79,7 @@ const std::map<icingType, std::string> donut::iceToStr = {{CHOCOLATEICING, "Choc
                                                           {GLAZE, "Glaze"},
                                                           {SPECIALICE, "Special"},
                                                           {NOICE, "None"}};
-const std::map<std::string, icingType> donut::strToice = {{"chocolate", CHOCOLATEICING},
+const std::map<std::string, icingType> donut::strToIce = {{"chocolate", CHOCOLATEICING},
                                                           {"caramel", CARAMELICING},
                                                           {"maple", MAPLE},
                                                           {"vanilla", VANILLA},

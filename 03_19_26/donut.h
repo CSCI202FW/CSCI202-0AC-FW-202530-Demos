@@ -60,7 +60,7 @@ public:
     std::string toString() const;
     friend std::ostream &operator<<(std::ostream &, const donut &);
     const static std::map<icingType, std::string> iceToStr;
-    const static std::map<std::string, icingType> strToice;
+    const static std::map<std::string, icingType> strToIce;
     const static std::map<drizzleType, std::string> drizzleToStr;
     const static std::map<std::string, drizzleType> strToDrizzle;
     const static std::map<toppingType, std::string> topToStr;
