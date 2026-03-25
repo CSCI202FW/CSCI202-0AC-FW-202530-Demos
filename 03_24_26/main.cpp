@@ -19,6 +19,8 @@ void icingPrompt();
 void drizzlePrompt();
 void toppingPrompt(std::string);
 
+// M02 - b create ordered linked list
+
 int main()
 {
     unorderedLinkedList<int> numList;
@@ -35,6 +37,8 @@ int main()
     std::cout << std::endl;
     donutList.print(std::cout, "\n");
     std::cout << std::endl;
+    linkedListIterator<donut> iter = donutList.begin();
+    donut x = *(*iter);
     /*     donut *x = &donutList.front();
         x->setDrizzle("caramel");
         donutList.print(std::cout, "\n"); */

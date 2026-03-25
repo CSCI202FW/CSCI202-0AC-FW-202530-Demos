@@ -49,7 +49,7 @@ public:
         POWDSUGAR,
         NOTOP
     };
-    donut();
+    // donut();
     donut(std::string icing, std::string topping, std::string drizzle);
     icingType getIcing() const;
     drizzleType getDrizzle() const;

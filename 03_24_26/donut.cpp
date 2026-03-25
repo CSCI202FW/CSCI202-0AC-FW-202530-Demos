@@ -1,11 +1,11 @@
 #include "donut.h"
 
-donut::donut()
+/* donut::donut()
 {
     topping = NOTOP;
     icing = NOICE;
     drizzle = drizzleType::NODRIZZLE;
-}
+} */
 
 donut::donut(std::string icing, std::string topping, std::string drizzle)
 {

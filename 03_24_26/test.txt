@@ -1,0 +1,17 @@
+Council Room
+5
+n
+y
+1
+y
+4
+n
+y
+Each other player draws a card
+Copper
+0
+1
+Estate
+2
+1
+n
