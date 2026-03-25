@@ -2,10 +2,8 @@
 #include <string>
 #include <limits>
 #include "donut.h"
-#include "order.h"
+#include "linkedlist.h"
 
-void referencePointers(donut *&, donut *);
-void references(donut *&, donut &); // works the same as the one above
 bool intInRange(int num, int low, int high);
 int getInt(std::string prompt, std::string error, int low = 0, int high = 0, bool (*valid)(int, int, int) = intInRange);
 bool gt0(int num, int low = 0, int high = 0);
@@ -22,34 +20,11 @@ void toppingPrompt(std::string);
 
 int main()
 {
-    donut *pointer1;
-    donut myDonut;
-    pointer1 = new donut("caramel", "Bacon", "Raspberry");
-    referencePointers(pointer1, &myDonut);
-    int numDonuts = getInt("How many donuts would you like? ", "That is not a valid number of donuts! Please enter a number between 1 and 12", 1, 12);
-
-    Order donutOrder;
-    for (int i = 0; i < numDonuts; i++)
-    {
-        std::string icing = getIcing();
-        std::string topping = getTopping(icing);
-        std::string drizzle = getDrizzle();
-        donut d(icing, topping, drizzle);
-        donutOrder + d;
-    }
-    std::cout << donutOrder << std::endl;
+    linkedListType<int> numList;
 
     return 0;
 };
 
-void referencePointers(donut *&p, donut *d)
-{
-    d->setDrizzle("Peanut butter");
-    donut *temp = p;
-    p = d;
-    d = temp;
-    delete temp;
-}
 void resetStream()
 {
     std::cin.clear();
