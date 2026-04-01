@@ -11,7 +11,7 @@ public:
     virtual bool isEmptyStack() const = 0;
     virtual void push(const t &) = 0;
     virtual t peek() const = 0;
-    virtual t top() const = 0;
+    virtual t &top() = 0;
     virtual t pop() = 0;
 };
 #endif
