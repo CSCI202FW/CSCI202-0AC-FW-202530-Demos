@@ -160,8 +160,11 @@ t arrayQueue<t>::dequeue()
 template <class t>
 void arrayQueue<t>::copyQueue(const arrayQueue<t> &otherQueue)
 {
-    this->initializeQueue();
-    delete[] this->list;
+    if (!isEmptyQueue())
+    {
+        this->initializeQueue();
+        delete[] this->list;
+    }
     this->maxQueueSize = otherQueue.maxQueueSize;
     this->list = new t *[this->maxQueueSize];
     /*  for (int i = 0; i < this->maxQueueSize; i++)

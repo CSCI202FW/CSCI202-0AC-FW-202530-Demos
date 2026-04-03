@@ -7,7 +7,9 @@
             "program": "${fileDirname}/${fileBasenameNoExtension}",
             "args": [
                 "<",
-                "input.txt"
+                "input.txt",
+                ">",
+                "output.txt"
             ],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",

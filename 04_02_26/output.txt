@@ -1,0 +1,4278 @@
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 27
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 10
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 30
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 24
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 11
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 17
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 30
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 25
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 18
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 27
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 17
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 18
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 26
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 9
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 29
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 23
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 16
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 29
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 24
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 17
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 26
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 17
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 25
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 8
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 28
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 22
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 15
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 28
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 23
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 16
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 25
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 16
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 24
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 7
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 27
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 21
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 14
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 27
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 22
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 15
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 24
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 15
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 23
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 6
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 26
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 20
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 13
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 21
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 14
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 23
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 14
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 22
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 5
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 25
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 19
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 12
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 20
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 13
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 22
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 13
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 21
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 4
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 24
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 18
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 11
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 19
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 12
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 21
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 12
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 20
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 23
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 17
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 10
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 18
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 11
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: List of Ready Processes: 
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 20
+----------------------------------------
+----------------------------------------
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 11
+----------------------------------------
+----------------------------------------
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 19
+----------------------------------------
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 22
+----------------------------------------
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 10
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 25
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 20
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 11
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 19
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 27
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 22
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 18
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 16
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 24
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 9
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: List of Ready Processes: 
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 10
+----------------------------------------
+----------------------------------------
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 25
+----------------------------------------
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 19
+----------------------------------------
+----------------------------------------
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 27
+----------------------------------------
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 21
+----------------------------------------
+----------------------------------------
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 24
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 8
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 17
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 16
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 17
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 10
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 25
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 19
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 10
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 16
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 27
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 21
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: List of Ready Processes: 
+----------------------------------------
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 24
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 8
+----------------------------------------
+----------------------------------------
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 10
+----------------------------------------
+----------------------------------------
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 26
+----------------------------------------
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 20
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 26
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 3
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: List of Ready Processes: 
+----------------------------------------
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 24
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 8
+----------------------------------------
+----------------------------------------
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 10
+----------------------------------------
+----------------------------------------
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 26
+----------------------------------------
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 20
+----------------------------------------
+----------------------------------------
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 26
+----------------------------------------
+----------------------------------------
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 3
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 18
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 15
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 24
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 8
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 17
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 16
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 10
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: List of Ready Processes: 
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 10
+----------------------------------------
+----------------------------------------
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 26
+----------------------------------------
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 20
+----------------------------------------
+----------------------------------------
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 26
+----------------------------------------
+----------------------------------------
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 3
+----------------------------------------
+----------------------------------------
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 14
+----------------------------------------
+----------------------------------------
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 23
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 7
+----------------------------------------
+----------------------------------------
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 10
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 16
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 18
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 24
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 9
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 18
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 10
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: List of Ready Processes: 
+----------------------------------------
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 26
+----------------------------------------
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 20
+----------------------------------------
+----------------------------------------
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 26
+----------------------------------------
+----------------------------------------
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 3
+----------------------------------------
+----------------------------------------
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 14
+----------------------------------------
+----------------------------------------
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 23
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 7
+----------------------------------------
+----------------------------------------
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 10
+----------------------------------------
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 24
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 8
+----------------------------------------
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 9
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 16
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 26
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: List of Ready Processes: 
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 20
+----------------------------------------
+----------------------------------------
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 26
+----------------------------------------
+----------------------------------------
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 3
+----------------------------------------
+----------------------------------------
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 14
+----------------------------------------
+----------------------------------------
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 23
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 7
+----------------------------------------
+----------------------------------------
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 10
+----------------------------------------
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 24
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 8
+----------------------------------------
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 25
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 20
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 26
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: List of Ready Processes: 
+----------------------------------------
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 3
+----------------------------------------
+----------------------------------------
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 14
+----------------------------------------
+----------------------------------------
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 23
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 7
+----------------------------------------
+----------------------------------------
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 10
+----------------------------------------
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 24
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 8
+----------------------------------------
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 25
+----------------------------------------
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 19
+----------------------------------------
+----------------------------------------
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 25
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 3
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: List of Ready Processes: 
+----------------------------------------
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 14
+----------------------------------------
+----------------------------------------
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 23
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 7
+----------------------------------------
+----------------------------------------
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 10
+----------------------------------------
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 24
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 8
+----------------------------------------
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 25
+----------------------------------------
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 19
+----------------------------------------
+----------------------------------------
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 25
+----------------------------------------
+----------------------------------------
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 2
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 17
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: List of Ready Processes: 
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 14
+----------------------------------------
+----------------------------------------
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 23
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 7
+----------------------------------------
+----------------------------------------
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 10
+----------------------------------------
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 24
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 8
+----------------------------------------
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 25
+----------------------------------------
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 19
+----------------------------------------
+----------------------------------------
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 25
+----------------------------------------
+----------------------------------------
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 2
+----------------------------------------
+----------------------------------------
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 16
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 14
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: List of Ready Processes: 
+----------------------------------------
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 23
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 7
+----------------------------------------
+----------------------------------------
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 10
+----------------------------------------
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 24
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 8
+----------------------------------------
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 25
+----------------------------------------
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 19
+----------------------------------------
+----------------------------------------
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 25
+----------------------------------------
+----------------------------------------
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 2
+----------------------------------------
+----------------------------------------
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 13
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 23
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 7
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 22
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: List of Ready Processes: 
+----------------------------------------
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 10
+----------------------------------------
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 24
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 8
+----------------------------------------
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 25
+----------------------------------------
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 19
+----------------------------------------
+----------------------------------------
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 25
+----------------------------------------
+----------------------------------------
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 2
+----------------------------------------
+----------------------------------------
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 13
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 6
+----------------------------------------
+----------------------------------------
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 22
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 16
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: No Waiting Processes.
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 15
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 10
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: List of Ready Processes: 
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 24
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 8
+----------------------------------------
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 25
+----------------------------------------
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 19
+----------------------------------------
+----------------------------------------
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 25
+----------------------------------------
+----------------------------------------
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 2
+----------------------------------------
+----------------------------------------
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 13
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 6
+----------------------------------------
+----------------------------------------
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 22
+----------------------------------------
+----------------------------------------
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 15
+----------------------------------------
+----------------------------------------
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 14
+----------------------------------------
+----------------------------------------
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 9
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 15
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 18
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 24
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 8
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 17
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 9
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 15
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 25
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 19
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 25
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 2
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 16
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 13
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 6
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 22
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 15
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 14
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 9
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 17
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 23
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 7
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 16
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 8
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 14
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 24
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 14
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 24
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Foresthouse
+Status: Ready
+Priority: 8
+Time slices left to finish: 1
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 15
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 12
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 5
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 21
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 14
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 13
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 8
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 16
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 22
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 15
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 7
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 13
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 23
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 18
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 14
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 23
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 14
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 11
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 4
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 20
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 13
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 12
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 7
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 15
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 21
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 6
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 12
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 22
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 18
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 13
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 22
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 13
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 10
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 19
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 12
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 6
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 11
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 6
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 14
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 20
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 5
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 11
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Planetcom
+Status: Ready
+Priority: 4
+Time slices left to finish: 21
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 17
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 12
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 14
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 21
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 12
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 9
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 18
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 11
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 6
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 10
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 5
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 13
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 19
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 4
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 10
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 16
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Moving process to Ready:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 3
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 11
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 14
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 20
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 11
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 8
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 17
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 10
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 5
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 9
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 4
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 12
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 18
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 3
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 9
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 15
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 3
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 10
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 13
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 19
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 10
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Running Process:
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 7
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: List of Ready Processes: 
+----------------------------------------
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 4
+----------------------------------------
+----------------------------------------
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 8
+----------------------------------------
+----------------------------------------
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 3
+----------------------------------------
+----------------------------------------
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 11
+----------------------------------------
+----------------------------------------
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 2
+----------------------------------------
+----------------------------------------
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 8
+----------------------------------------
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 14
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 2
+----------------------------------------
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 12
+----------------------------------------
+----------------------------------------
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 6
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+Process Name: Foresthouse
+Status: Finished
+Priority: 8
+Time slices left to finish: 0
+
+Please choose from the following menu: 
+1. Run Next Process
+2. Trigger an Interrupt
+3. List All Processes
+4. Shut Down
+Your Choice: Shuttng Down:
+List of Ready Processes: 
+----------------------------------------
+Process Name: Wavewater
+Status: Ready
+Priority: 10
+Time slices left to finish: 16
+----------------------------------------
+----------------------------------------
+Process Name: Bridgeworth
+Status: Ready
+Priority: 1
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Chiefsys
+Status: Ready
+Priority: 4
+Time slices left to finish: 4
+----------------------------------------
+----------------------------------------
+Process Name: Marshead
+Status: Ready
+Priority: 2
+Time slices left to finish: 8
+----------------------------------------
+----------------------------------------
+Process Name: Spritespace
+Status: Ready
+Priority: 5
+Time slices left to finish: 3
+----------------------------------------
+----------------------------------------
+Process Name: Squidland
+Status: Ready
+Priority: 10
+Time slices left to finish: 11
+----------------------------------------
+----------------------------------------
+Process Name: Stanhigh
+Status: Ready
+Priority: 8
+Time slices left to finish: 17
+----------------------------------------
+----------------------------------------
+Process Name: Truecan
+Status: Ready
+Priority: 8
+Time slices left to finish: 2
+----------------------------------------
+----------------------------------------
+Process Name: Motionwalk
+Status: Ready
+Priority: 9
+Time slices left to finish: 8
+----------------------------------------
+----------------------------------------
+Process Name: Donquote
+Status: Ready
+Priority: 4
+Time slices left to finish: 14
+----------------------------------------
+----------------------------------------
+Process Name: Ventocan
+Status: Ready
+Priority: 6
+Time slices left to finish: 2
+----------------------------------------
+----------------------------------------
+Process Name: Fixbase
+Status: Ready
+Priority: 1
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Boardream
+Status: Ready
+Priority: 4
+Time slices left to finish: 12
+----------------------------------------
+----------------------------------------
+Process Name: Betahouse
+Status: Ready
+Priority: 10
+Time slices left to finish: 18
+----------------------------------------
+----------------------------------------
+Process Name: Marsdream
+Status: Ready
+Priority: 9
+Time slices left to finish: 9
+----------------------------------------
+----------------------------------------
+Process Name: Alligatorbit
+Status: Ready
+Priority: 7
+Time slices left to finish: 6
+----------------------------------------
+List of Waiting Processes: 
+List of Finished Processes: 
+Process Name: Foresthouse
+Status: Finished
+Priority: 8
+Time slices left to finish: 0
