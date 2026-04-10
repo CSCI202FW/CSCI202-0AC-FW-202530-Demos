@@ -7,6 +7,8 @@
 #include "searchSort.h"
 #include "person.h"
 
+// m04-b adapt merge sort in unordered linked list to use a function pointer
+
 void setup();
 
 int compareByName(Person *&, Person *&);
